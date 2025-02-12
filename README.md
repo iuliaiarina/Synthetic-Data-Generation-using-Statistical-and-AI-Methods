@@ -10,5 +10,11 @@ Designed and implemented two novel methodologies for generating synthetic time s
 
 ![image](https://github.com/user-attachments/assets/afbaf958-5628-4cf5-8ee7-7c766d770842)
 
-
-
+@inproceedings{inproceedings,
+author = {Ungureanu, Iulia and Portase, Raluca and Dinsoreanu, Mihaela and Lemnaru, Camelia and Potolea, Rodica},
+year = {2024},
+month = {10},
+pages = {1-8},
+title = {Hybrid Statistical and AI Methods for Synthetic Time Series Generation in Practical Applications},
+doi = {10.1109/ICCP63557.2024.10793008}
+}
